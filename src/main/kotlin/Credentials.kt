@@ -1,4 +1,4 @@
 object Credentials {
-    const val USERNAME = "enter_your_instagram_username_here"
-    const val PASSWORD = "enter_your_instagram_password_here"
-}
+    const val USERNAME = rajputji986singh
+    const val PASSWORD = vimal@128189
+    
